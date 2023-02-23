@@ -1,0 +1,17 @@
+beige
+black
+white
+light blue
+light green
+light cyan
+light purple
+pale golden
+light aqua
+aqua
+pale magenta
+magenta
+pale violet
+violet
+light pink
+pink
+red
