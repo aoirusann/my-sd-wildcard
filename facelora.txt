@@ -1,13 +1,16 @@
-<lora:@capo130xx:0.1>
+<lora:@capo130xx:0.15>
 <lora:@real_yami:0.15>
-<lora:@purin_oi4:0.1>
+<lora:@purin_oi4:0.15>
 <lora:@senchan_25:0.15>
-<lora:MafuyuLora_lightV01:0.1>
+<lora:MafuyuLora_lightV01:0.15>
 <lora:chineseCosplayerXiaorouseeu_v10:0.15>
-<lora:eimifukada_:0.1>
-<lora:iu1:0.15>, iu1,
-<lora:guanxiaoyuRe_v10:0.1>
-<lora:saika1:0.1>, saika1,
+<lora:eimifukada_:0.15>
+<lora:guanxiaoyuRe_v10:0.15>
 <lora:tifaMeenow_tifaV1:0.15>
 <lora:virtualgirlRin_v10:0.15>
 <lora:koreanDollLikeness_v15:0.15>
+<lora:chengyooooo_v10:0.15>
+<lora:iu1(,iu1,):0.15>,iu1,
+<lora:saika1(,saika1,):0.15>,saika1,
+<lora:@_nana_ichinose(,@_nana_ichinose,):0.15>,@_nana_ichinose,
+<lora:fashionGirl_v45(,FASHI-GIRL,REDLIPS,REALISTIC,MAKEUP,):0.15>,FASHI-GIRL,REDLIPS,REALISTIC,MAKEUP,
