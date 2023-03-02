@@ -6,7 +6,7 @@
 <lora:chineseCosplayerXiaorouseeu_v10:0.15>
 <lora:eimifukada_:0.15>
 <lora:guanxiaoyuRe_v10:0.15>
-<lora:tifaMeenow_tifaV1:0.15>
+<lora:tifaMeenow_tifaV2:0.15>
 <lora:virtualgirlRin_v10:0.15>
 <lora:koreanDollLikeness_v15:0.15>
 <lora:chengyooooo_v10:0.15>

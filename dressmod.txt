@@ -1,5 +1,6 @@
 long sleeve
 round neck
+cropped
 deep v neck
 One-Shoulder
 Open Back
@@ -7,3 +8,6 @@ midriff-showing
 Flower on Sash
 Ribbon on Sash
 Embroidered Lace
+frilled
+frilled sleeves
+high-waist
