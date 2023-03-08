@@ -12,5 +12,8 @@
 <lora:chengyooooo_v10:0.15>
 <lora:iu1(,iu1,):0.15>,iu1,
 <lora:saika1(,saika1,):0.15>,saika1,
+<lora:fashionGirl_v45(, FASHI-GIRL, RED LIPS, REALISTIC, MAKEUP,):0.15>,FASHI-GIRL,REDLIPS,REALISTIC,MAKEUP,
 <lora:@_nana_ichinose(,@_nana_ichinose,):0.15>,@_nana_ichinose,
-<lora:fashionGirl_v45(,FASHI-GIRL,REDLIPS,REALISTIC,MAKEUP,):0.15>,FASHI-GIRL,REDLIPS,REALISTIC,MAKEUP,
+<lora:cuteGirlMix4_v10(,mix4,):0.15>,mix4,
+<lora:Snexxxxxxx_v10:0.15>
+<lora:腐团儿_v10:0.15>

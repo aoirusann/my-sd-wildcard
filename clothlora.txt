@@ -1,0 +1,5 @@
+,ru_qun, hanfu, <lora:elegantHanfuRuqun_v10(ru_qun,hanfu,):0.6>  <lora:GuoFeng3.2_Lora:0.3>
+,hanfu, <lora:hanfu_v20:0.6>
+,kimono, <lora:kimono(,kimono,):0.6>
+,pleated skirt, shirt,school, <lora:jkPlaidskirt_jkPlaidskirtV10:0.6>
+,chromatic chestRuSkirt, <lora:chestruskirt_01(,chromatic chestRuSkirt,):0.6>
