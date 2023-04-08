@@ -17,3 +17,8 @@
 <lora:cuteGirlMix4_v10(,mix4,):0.15>,mix4,
 <lora:Snexxxxxxx_v10:0.15>
 <lora:腐团儿_v10:0.15>
+,arurinh,<lora:zekiaAruRinh_v10(,arurinh,):0.15>
+<lora:lovedollLikenessMiyou_v10:0.15>
+<lora:yuiAsianSexyGirl_yuiV3:0.15>
+<lora:asianSexyLingerie_v1:0.15>
+<lora:zheng_v10:0.08>
