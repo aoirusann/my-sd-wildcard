@@ -3,5 +3,5 @@
 ,kimono, <lora:kimono(,kimono,):0.6>
 ,pleated skirt, shirt,school, <lora:jkPlaidskirt_jkPlaidskirtV10:0.6>
 ,chromatic chestRuSkirt, <lora:chestruskirt_01(,chromatic chestRuSkirt,):0.6>
-<lora:NINEODESLolitaLolita_:0.6>
+<lora:NINEODESLolitaLolita_:0.4>
 pantyhose, <lora:pantyhose_v15:0.6>
