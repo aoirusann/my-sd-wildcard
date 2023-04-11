@@ -1,0 +1,3 @@
+NOT USING NOW
+<lora:qianrenxue_v10:0.4>
+<lora:eruteaAsianCatGirl_v10:0.5>

@@ -5,3 +5,4 @@
 ,chromatic chestRuSkirt, <lora:chestruskirt_01(,chromatic chestRuSkirt,):0.6>
 <lora:NINEODESLolitaLolita_:0.4>
 pantyhose, <lora:pantyhose_v15:0.6>
+,yifu,<lora:clothesLora_v10(,yifu,):0.8>
