@@ -27,3 +27,6 @@
 <lora:anranSexyAsianGirl_v10:0.25>
 <lora:yukiAsianSexy_v10:0.25>
 <lora:zheng_v10:0.12>
+<lora:aespakarina-v5(,aespakarina,):0.25>,aespakarina,
+<lora:gqmxxm_v11:0.25>
+<lora:Yunxi_v10(,yunxi,):0.25>,yunxi,

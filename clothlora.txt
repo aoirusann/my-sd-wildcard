@@ -6,3 +6,7 @@
 <lora:NINEODESLolitaLolita_:0.4>
 pantyhose, <lora:pantyhose_v15:0.6>
 ,yifu,<lora:clothesLora_v10(,yifu,):0.8>
+<lora:hanbok_w_v10(,hanbok,):0.6>,hanbok,
+<lora:hauteCouturePencil_v12(, pencil_dress,):0.6>, pencil_dress,
+<lora:nurseUniform_v11(,nurse_uniform,nurse,):0.6>,nurse_uniform,nurse,
+<lora:hanfu-000003:0.6>
